@@ -5,44 +5,5 @@
 # - name: Framework
 #   weight: 5
 
-- name: Linux(Shell & SO)
-  weight: 4
-
-- name: C
-  weight: 4
-
-- name: C++
+- name: ReactJS
   weight: 2
-
-- name: Web Pentesting
-  weight: 3
-
-- name: Git
-  weight: 3
-
-- name: HTML5
-  weight: 3
-
-- name: CSS
-  weight: 3
-
-- name: Javascript
-  weight: 2
-
-- name: MySQL
-  weight: 2
-
-- name: Oracle
-  weight: 1
-  
-- name: Electronic repair and design
-  weight: 2
-  
-- name: Docker and containers
-  weight: 1
-  
-- name: Python
-  weight: 4
-  
-- name: Photoshop
-  weight: 5
