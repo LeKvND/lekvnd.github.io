@@ -13,21 +13,27 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Spotify 2
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://spotify2.com/
+- name: Flying Bear
+  descr: "A web app that generates audio notes, complex mental maps, and principal keywords for a topic, this tool helps the teachers to explain some topics based in the learning style of their students"
   tags:
-    - tag: MongoDB
-    - tag: REACT
+    - tag: Azure Cognitive Services
+    - tag: HTML
+    - tag: Flask
+    - tag: CSS
+    - tag: ReactJS
+
+- name: Foodity
+  descr: "Developed in Java and IBM Watson, this Android aplication, with a picture of the food, shows you the kind of food, and the calories."
+  tags:
+    - tag: IBM Watson
     - tag: HTML5
-    - tag: Node
-
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+    - tag: CSS
+    - tag: JAVA
+    
+    - name: Foodity
+  descr: "Developed in HTML, PHP, CSS, and JS using Microsoft Azure, this WebApp, with a picture of your fridge, and your preferences/diet/medical problems shows you a recipe with the ingredients of your fridge, and your preferences ."
   tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: PHP
+    - tag: HTML5
+    - tag: CSS
+    - tag: Azure Cognitive Services / Web Services
