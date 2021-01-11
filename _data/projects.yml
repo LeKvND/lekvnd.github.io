@@ -30,7 +30,7 @@
     - tag: CSS
     - tag: JAVA
     
-    - name: Foodity
+    - name: Nutrity
   descr: "Developed in HTML, PHP, CSS, and JS using Microsoft Azure, this WebApp, with a picture of your fridge, and your preferences/diet/medical problems shows you a recipe with the ingredients of your fridge, and your preferences ."
   tags:
     - tag: PHP
