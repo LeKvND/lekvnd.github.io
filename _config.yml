@@ -21,8 +21,6 @@ email: k3v1ndap@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: LeKvND
-codepen_username: https://drive.google.com/file/d/1lEPE8Eh_vKFvT4cJUOPzQBJgzw_epIPI/view?usp=sharing
-dev_username: exampleUser
 linkedin_username: kevindaguilar
 twitter_username: __kevzz__
 
@@ -53,7 +51,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/file/d/1lEPE8Eh_vKFvT4cJUOPzQBJgzw_epIPI/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
