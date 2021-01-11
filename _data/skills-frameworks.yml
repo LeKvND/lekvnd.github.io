@@ -5,5 +5,11 @@
 # - name: Framework
 #   weight: 5
 
-- name: ReactJS
-  weight: 2
+- name: Bug Hunting
+  weight: 5
+
+- name: Musical Production
+  weight: 5
+
+- name: Movies
+  weight: 5
